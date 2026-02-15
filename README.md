@@ -25,7 +25,7 @@ Este proyecto analiza:
 
 ## 🛠 Herramientas Utilizadas
 
-* Power BI
+* Excel
 * Power Query
 * DAX
 * Power Pivot
